@@ -8,6 +8,8 @@ WiFi Beacon Heatmap Analyzer scans for nearby WiFi networks and visualizes their
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
 </p>
 
+![example](https://github.com/user-attachments/assets/acde3a5b-ed34-49c0-b3a9-0298548f2528)
+
 ## Quick Start
 
 ### Prerequisites
